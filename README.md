@@ -1,6 +1,10 @@
 # PongPongPong
 ZTM Coding Challenge 30
 
+# Demo
+
+![](ponggifvideo.gif)
+
 Making the Pong game with a **twist**.
 In this game, the player competes with AI!
 The computer paddle predicts its position by learning from the data in game_data.csv file.
