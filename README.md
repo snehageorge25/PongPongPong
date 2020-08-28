@@ -11,9 +11,7 @@ The computer paddle predicts its position by learning from the data in game_data
 
 I also added background music and sound effects!
 
-It was fun creating this game as the tutorial did give out have complete code which let me make my own mistakes and learn. Thank you @aneagoie
-
-I have followed this tutorial here --> https://www.youtube.com/watch?v=JRLdbt7vK-E&list=PLzH6n4zXuckoUWpzSEpQNW6I8rXIzyi8w.
+To try it, fork the repository and make sure you have pygame installed.
 
 # coding_challenge-30 --- PongPongPong (using JavaScript or Python)
 
